@@ -1,0 +1,1 @@
+# openshifttraning2022
